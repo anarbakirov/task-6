@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+}
+main {
+    width: 65%;
+    max-width: 1000px;
+    min-width: 430px;
+    margin: auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #f0fff8;
+}
+tr{
+    display: table-row;
+}
+td {
+    border: 1px solid #17db38;
+    padding: 12px;
+}
+p,ul{
+    border: 1px solid #17db38;
+    padding: 25px; 
+    border-radius: 8px;
+}
+li{
+    margin-top: 12px;
+    list-style: square;
+}
+
